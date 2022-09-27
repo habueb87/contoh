@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasMinggu4</string>
+    <string name="example_icon_txt">
+
+    <string-array name="example_icon_txt">
+        <item>Bluetooth</item>
+        <item>Flash</item>
+        <item>Vpn Lock</item>
+        <item>Money</item>
+    </string-array>
+
+    </string>
+</resources>
